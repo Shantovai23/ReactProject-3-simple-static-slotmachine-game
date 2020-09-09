@@ -4,7 +4,7 @@ import SlotM from './SlotM'
 const App=()=>{
    return (
        <>
-           <h1 className="heading_style">🎰 Welcome Static SlotMachine Game 🎰</h1>
+           <h1 className="heading_style">🎰 Welcome STATIC SlotMachine Game 🎰</h1>
            <div className='slotBox'>
            <SlotM x='😄' y='😄' z='😄' />
            <SlotM x='💗' y='🍎' z='💗'/>
